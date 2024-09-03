@@ -1,0 +1,2 @@
+# Research_Pseudo_Labeling_Boosts_Performance_of_Deep_Learning_Models_for_Nosema_Detection
+Research data for a paper submitted in Computers and Electronics in Agriculture Journal
