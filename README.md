@@ -3,7 +3,7 @@
     #Authors: 1. M.Sc. Boris Malcic, Faculty of Electrical Engineering, University of Banja Luka, Republic of Srpska (RS), Bosnia and  Herzegovina (BiH). Corresponding author's e-mail address: boris.malcic@etf.unibl.org
     #         2. Dr. Violeta Santrac, PI Veterinary Institute of the Repubic of Srpska "Dr. Vaso Butozan", 78000 Banja Luka, RS, BiH
           
-# This is description for a data (programs, datasets, trained models and validation results) you need to check and/or repeat research presented in the paper that was submitted (August 31, 2024) for publication in https://www.sciencedirect.com/journal/computers-and-electronics-in-agriculture/about/insights
+# This is description for a data (programs, datasets, trained models and validation results) you need to check and/or repeat research presented in the paper.
 
 ## Steps:
 
